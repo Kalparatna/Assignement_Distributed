@@ -25,10 +25,6 @@ Ensure you have the following installed on your system:
    git clone https://github.com/Kalparatna/Assignement_Distributed.git
    cd Assignement_Distributed
    ```
-2. Install required dependencies (if any):
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 Run the following command to execute the script and insert data concurrently into the databases:
