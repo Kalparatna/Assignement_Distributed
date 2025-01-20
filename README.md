@@ -34,10 +34,10 @@ Ensure you have the following installed on your system:
 Run the following command to execute the script and insert data concurrently into the databases:
 
 ```bash
-python your_script_name.py
+python distrubuted_data.py
 ```
 
-This command will:
+## This command will:
 1. Create tables in the respective SQLite databases if they do not exist.
 2. Validate the input data.
 3. Insert records concurrently using threads.
